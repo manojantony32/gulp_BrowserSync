@@ -1,7 +1,6 @@
 # gulp_BrowserSync
 gulp creation and browser sync with application
 
-
 > npm install gulp browser-sync -g
 > npm init
 > atom
